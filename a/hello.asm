@@ -2,7 +2,7 @@
 ; (ld 的‘-s’选项意为“strip all”)
 ;
 ; $ nasm -f elf hello.asm -o hello.o
-; $ ld -s hello.o -o hello
+; $ ld -m elf_i386 -s hello.o -o hello
 ; $ ./hello
 ; Hello, world!
 ; $
