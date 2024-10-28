@@ -12,4 +12,4 @@ PUBLIC void	disp_str(char * info);
 PUBLIC void	disp_color_str(char * info, int color);
 PUBLIC void	init_prot();
 PUBLIC void	init_8259A();
-
+PUBLIC void disp_int(int input);
