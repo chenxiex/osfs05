@@ -18,5 +18,5 @@ Now we have a running **Kernel**! Hurrah for the **Kernel**!
 
 `‹prev`_   `next›`_
 
-.. _`‹prev`: https://github.com/yyu/osfs04
-.. _`next›`: https://github.com/yyu/osfs06
+.. _`‹prev`: https://github.com/chenxiex/osfs04
+.. _`next›`: https://github.com/chenxiex/osfs06
